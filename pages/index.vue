@@ -5,11 +5,12 @@ definePageMeta({
   description: 'Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.'
 })
 </script>
-<template>すまほ
+<template>
       
   <Container margin="t-5">
     <HeroHeadingsDescription />
   </Container>
+  すまほ
   <HeroLandingVb />
   <Container margin="y-5">
     <ColumnsOurService />
